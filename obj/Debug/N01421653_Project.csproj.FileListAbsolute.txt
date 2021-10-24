@@ -1,0 +1,12 @@
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\bin\Debug\N01421653_Project.exe.config
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\bin\Debug\N01421653_Project.exe
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\bin\Debug\N01421653_Project.pdb
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\obj\Debug\N01421653_Project.csprojAssemblyReference.cache
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\obj\Debug\N01421653_Project.Form1.resources
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\obj\Debug\N01421653_Project.Properties.Resources.resources
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\obj\Debug\N01421653_Project.csproj.GenerateResource.cache
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\obj\Debug\N01421653_Project.csproj.CoreCompileInputs.cache
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\obj\Debug\N01421653_Project.exe
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\obj\Debug\N01421653_Project.pdb
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\obj\Debug\N01421653_Project.Form2.resources
+D:\Humber\Semester 2\Windows App Dev using C#.Net\N01421653_Project\N01421653_Project\N01421653_Project\obj\Debug\N01421653_Project.Form3.resources
